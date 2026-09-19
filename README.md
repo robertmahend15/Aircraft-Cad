@@ -5,7 +5,7 @@
 <h2>Exterior Aircraft Design</h2>
 Designed the exterior architecture of a conceptual regional passenger aircraft, including the fuselage, wing configuration, empennage (tail assembly), and overall aerodynamic layout. Produced high-quality CAD models and photorealistic renderings to visualize the aircraft's external form and configuration.
 <br />
-
+<br><br><br>
 
 <p align="center">
 Aircraft Design: <br/>
